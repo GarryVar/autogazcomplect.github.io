@@ -131,7 +131,8 @@ button {
 
 .page-header__logo {
   position: relative;
-  width: 36px; }
+  width: 36px;
+  overflow: hidden; }
   .page-header__logo span {
     position: absolute;
     bottom: -6px;
